@@ -30,61 +30,62 @@ Analizar y comprender los conceptos que fueron tratados en los capítulos 1 y 2 
 ![image](https://user-images.githubusercontent.com/116814386/201002380-a54985eb-ebab-48eb-966d-ac9da1f8a099.png)
 *Notación científica
 1. Exprese cada uno de los siguientes númers en notación científica:
+
 ![image](https://user-images.githubusercontent.com/116814386/201005707-516c7d4c-8ac6-41ff-8879-42d9157116cc.png)
+
 3. Exprese cada uno de los números siguientes en notación científica:
+
 ![image](https://user-images.githubusercontent.com/116814386/201005808-5213f650-2f11-4f1b-9bcf-79767823ef5d.png)
+
 5. Exprese cada uno de los números siguientes en notación científica:
+
 ![image](https://user-images.githubusercontent.com/116814386/201005883-fae51b92-c45c-412f-9142-75f095485171.png)
+
 7. Exprese cada uno de los números siguientes como un número decimal regular:
+
 ![image](https://user-images.githubusercontent.com/116814386/201006036-6ecc191e-0a97-406d-a35a-00616d5a490e.png)
+
 9. Sume los números siguientes:
-(a) 9.2×106+(3.4×107)
-9.2×106+3.4×107=9.2×106+(34×106)
-9.2×106+3.4×107=43.2106=4.32×10^7
-(b) 5×103+(8.5×10-1)
-5×103+8.5×10-1=5000+0.85=5000.85
-5.6×10-8+4.6∝10-9=60.610-9=6.0610-8
+
+![image](https://user-images.githubusercontent.com/116814386/201006634-b58fbf46-66a3-430d-859f-80aba8a44227.png)
+
 11. Realice las siguientes multiplicaciones:
-(a) 5.0×103*(4×105)
-5.0×103*4×105=(5*4)×105+3
-5.0×103*4×105=20×108=2×109
-(b) 1.2×10123×102
-1.2×10123×102=1.2×31012+2
-1.2×10123×102=3.6×1014
-(c) 2.2×10-97×10-6
-2.2×10-97×10-6=2.2×710-9-6
-2.2×10-97×10-6=15.410-15=1.54×10-14
-Notación de ingeniería y prefijos métricos
+
+![image](https://user-images.githubusercontent.com/116814386/201006768-1f4e42e6-9c45-48dd-bdb3-613b1aa8dd65.png)
+
 13. Exprese cada uno de los números siguientes en notación de ingeniería:
-(a) 89,000 
 
-(b) 450,000 
-
-(c) 12,040,000,000,000
+![image](https://user-images.githubusercontent.com/116814386/201006892-28d32cf5-f0d4-41d3-9b6e-0a4713186a97.png)
 
 15. Exprese cada número en notación de ingeniería:
-(a) 0.000345 
 
-(b) 0.025 
-
-(c) 0.00000000129
+![image](https://user-images.githubusercontent.com/116814386/201006980-092a6813-41ae-4e2c-8313-0a11fa3ba41e.png)
 
 17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:
-(a) 2.5×10-3+4.6×10-3=7.1×10-3
-(b)68×106+33×106=101×106
-(c)1.25×106+250×103=1.25×106+0.25×106=1.50×106
+
+![image](https://user-images.githubusercontent.com/116814386/201007052-ab9f5b99-4074-4123-90c8-d3faa02fde0a.png)
+
 19. Divida los números siguientes y exprese cada resultado en notación de ingeniería: 
-(a)50÷2.2×103=502.20-3=22.7×10-3
-(b) 5×10325×10-6=525103+6=0.2×109=200×106
+
+![image](https://user-images.githubusercontent.com/116814386/201007134-ceb9fdeb-df44-429e-b760-f914ee613298.png)
+
 21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
+![image](https://user-images.githubusercontent.com/116814386/201007191-83b01102-7ce3-420a-ad02-dedc188caa6a.png)
+
 23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+
+![image](https://user-images.githubusercontent.com/116814386/201007255-559fe7ee-15c1-496d-a752-1e17212ca637.png)
  
 25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
+
+![image](https://user-images.githubusercontent.com/116814386/201007315-268a7c0c-24aa-4e0b-9e72-d83a3fa1bfaa.png)
  
-Conversiones de unidades métricas
+*Conversiones de unidades métricas
+
 27. Realice las conversiones indicadas:
 
+![image](https://user-images.githubusercontent.com/116814386/201007468-d213fd23-c472-416c-a663-71307307f735.png)
 
 29. Sume las siguientes cantidades:
 Carga eléctrica
