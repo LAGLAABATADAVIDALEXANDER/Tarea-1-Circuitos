@@ -1,14 +1,23 @@
-#4Universidad de las fuerzas armadas#
-                                 Universidad de las fuerzas armadas
+## UNIVERSIDAD DE LAS FUERZAS ARMADAS
 
-Objetivo general
+Nombre:David Lagla
 
-Entender la importancia de la notación científica a notación de ingeniería los prefijos y las transformaciones métricas para poder emplearlas en el análisis de las magnitudes relacionadas con la electrónica tales como el voltaje la resistencia y el amperaje, 
+NRC:
 
-Objetivos específicos 
-![image](https://user-images.githubusercontent.com/116814386/200975085-14c78b1e-3ee7-4246-8ac2-a8025d2c806a.png)
+Ing:Darwin Omar Alulema
 
 
+### 1.1Objetivo general
 
+Analizar y comprender los conceptos que fueron tratados en los capítulos 1 y 2 del libro de fundamentos de circuitos eléctricos de Floyd además de ser capaces destripar a la práctica los conceptos expuestos en el libro
 
+### 1.2 Objetivos específicos 
+
+*Adiestrarse en el uso de la notación científica y la notación de ingeniería para ser capaces de manipular adecuadamente cantidades muy pequeñas o muy grandes dependiendo la situación
+
+*Entender la definición de las tres unidades básicas de la electricidad Qué son la intensidad de corriente el voltaje y la resistencia
+
+*Ser capaces de de utilizar los instrumentos de medida de las unidades de electricidad de manera adecuada para poder tener cálculos más precisos y evitar dañar los a los aparatos de medida
+
+### 2.Marco Teorico
 
