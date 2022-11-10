@@ -23,45 +23,20 @@ Analizar y comprender los conceptos que fueron tratados en los capítulos 1 y 2 
 ![Turquesa y Verde Oscuro Causa y Efecto Organizador Gráfico](https://user-images.githubusercontent.com/116814386/201002756-4f012e00-6b9e-418e-b992-6c4befa45b97.png)
 ![Simple Green Ideas Key Concept Map Graphic Organizer](https://user-images.githubusercontent.com/116814386/201003173-76f3f36f-c94e-4e8b-851f-5902f8f664cc.png)
 ![1](https://user-images.githubusercontent.com/116814386/201004893-3f3075c8-60d3-4684-a679-1347694e7e09.jpg)
-
 ![Rojo Hamburguesa Organizador Gráfico](https://user-images.githubusercontent.com/116814386/201003251-32ae6f57-2d0f-46f4-b679-5c42357d3893.png)
 ![Salvia Verde Flores y Lunares Secuencia Organizador Gráfico](https://user-images.githubusercontent.com/116814386/201003993-992c096d-bf54-445c-a966-b78b6d21f865.png)
 ![Cuadro sinóptico sencillo](https://user-images.githubusercontent.com/116814386/201004262-a6bbfcfc-0a55-41af-8c1d-aeaa3e67647d.png)
 ![Cuadro Sinóptico sencillo Administración apuntes de libreta colorido](https://user-images.githubusercontent.com/116814386/201004606-cd6f9b45-3df0-4906-abff-b20573c2cce2.png)
 ![image](https://user-images.githubusercontent.com/116814386/201002380-a54985eb-ebab-48eb-966d-ac9da1f8a099.png)
-
-
-
-@@
-notación científicat
+*Notación científica
 1. Exprese cada uno de los siguientes númers en notación científica:
-(a) 3000
-3×103
-(b) 75,000
-7.5×104
-(c) 2,000,000
-2×106
+![image](https://user-images.githubusercontent.com/116814386/201005707-516c7d4c-8ac6-41ff-8879-42d9157116cc.png)
 3. Exprese cada uno de los números siguientes en notación científica:
-(a) 8400 
-8.4×103
-(b) 99,000 
-9.9×104
-(c)0.2×106
-2×105
+![image](https://user-images.githubusercontent.com/116814386/201005808-5213f650-2f11-4f1b-9bcf-79767823ef5d.png)
 5. Exprese cada uno de los números siguientes en notación científica:
-(a) 32×103
-3.2×104
- (b) 6800×10-6
-6.8×10-3
- (c)870×108
-8.7×1010
+![image](https://user-images.githubusercontent.com/116814386/201005883-fae51b92-c45c-412f-9142-75f095485171.png)
 7. Exprese cada uno de los números siguientes como un número decimal regular:
-(a)2.5×10-6
-0.0000025
-(b) 5.0×102
-500
-(c)3.9×10-1
-39
+![image](https://user-images.githubusercontent.com/116814386/201006036-6ecc191e-0a97-406d-a35a-00616d5a490e.png)
 9. Sume los números siguientes:
 (a) 9.2×106+(3.4×107)
 9.2×106+3.4×107=9.2×106+(34×106)
