@@ -158,22 +158,33 @@ Pata la intensidad de corriente                                     Para el volt
 
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
 
+
+
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería
 
+![image](https://user-images.githubusercontent.com/116814386/201019751-8925cafd-41d1-4485-b3b0-31425fca9a6e.png)
+
+![image](https://user-images.githubusercontent.com/116814386/201019535-d0d19f0b-026d-4315-8bd4-1e5be36f02fd.png)
 
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
-45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de óhmetro: 
-(a) manecilla en 2, ajuste de intervalo en 10 
-20
-(b) manecilla en 15, ajuste de intervalo en 100,000 
-100k
+![image](https://user-images.githubusercontent.com/116814386/201019115-984d382c-9092-48b1-bad3-1528b82d1c58.png)
 
-(c) manecilla en 45, ajuste de intervalo en 100
-4.5k
+El voltaje medido en la figura marca 250 V
+
+45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de óhmetro: 
+
+![image](https://user-images.githubusercontent.com/116814386/201018813-d631b15b-8e88-47e1-83a1-a5cdaff7709f.png)
+
 
 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. 
+
 (a) I1 (b) V1 (c) R1
+
+![image](https://user-images.githubusercontent.com/116814386/201018586-693480c5-fb74-472f-84c9-b680f325f614.png)
+
+![image](https://user-images.githubusercontent.com/116814386/201018221-b6f41feb-24be-4ee5-928a-3677626e895e.png)
+
 ### 4Video
 
 ### 5.Conclusiones
