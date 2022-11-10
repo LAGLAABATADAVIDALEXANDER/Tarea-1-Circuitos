@@ -20,6 +20,17 @@ Analizar y comprender los conceptos que fueron tratados en los capítulos 1 y 2 
 *Ser capaces de de utilizar los instrumentos de medida de las unidades de electricidad de manera adecuada para poder tener cálculos más precisos y evitar dañar los a los aparatos de medida
 
 ### 2.Marco Teórico
+![Turquesa y Verde Oscuro Causa y Efecto Organizador Gráfico](https://user-images.githubusercontent.com/116814386/201002756-4f012e00-6b9e-418e-b992-6c4befa45b97.png)
+![Simple Green Ideas Key Concept Map Graphic Organizer](https://user-images.githubusercontent.com/116814386/201003173-76f3f36f-c94e-4e8b-851f-5902f8f664cc.png)
+![1](https://user-images.githubusercontent.com/116814386/201004893-3f3075c8-60d3-4684-a679-1347694e7e09.jpg)
+
+![Rojo Hamburguesa Organizador Gráfico](https://user-images.githubusercontent.com/116814386/201003251-32ae6f57-2d0f-46f4-b679-5c42357d3893.png)
+![Salvia Verde Flores y Lunares Secuencia Organizador Gráfico](https://user-images.githubusercontent.com/116814386/201003993-992c096d-bf54-445c-a966-b78b6d21f865.png)
+![Cuadro sinóptico sencillo](https://user-images.githubusercontent.com/116814386/201004262-a6bbfcfc-0a55-41af-8c1d-aeaa3e67647d.png)
+![Cuadro Sinóptico sencillo Administración apuntes de libreta colorido](https://user-images.githubusercontent.com/116814386/201004606-cd6f9b45-3df0-4906-abff-b20573c2cce2.png)
+![image](https://user-images.githubusercontent.com/116814386/201002380-a54985eb-ebab-48eb-966d-ac9da1f8a099.png)
+
+
 
 @@
 notación científicat
