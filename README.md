@@ -21,8 +21,9 @@ Analizar y comprender los conceptos que fueron tratados en los capítulos 1 y 2 
 
 ### 2.Marco Teórico
 
-Notación científica
-1. Exprese cada uno de los números siguientes en notación científica:
+@@
+notación científicat
+1. Exprese cada uno de los siguientes númers en notación científica:
 (a) 3000
 3×103
 (b) 75,000
@@ -186,3 +187,8 @@ Pata la intensidad de corriente                                     Para el volt
 
 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos. 
 (a) I1 (b) V1 (c) R1
+### 4Video
+
+### 5.Conclusiones
+
+### 6.Bibliografia
