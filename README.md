@@ -80,7 +80,7 @@ Después de hallar la corriente uno y la corriente dos se va a encontrar los vol
  
  Tabla 1.2 (Voltajes medidos y calculados en cada trayectoria del circuito)
  
-![image](https://user-images.githubusercontent.com/116814386/201928657-2c290c8f-893b-49cd-9cf9-acb080f11eeb.png)
+![image](https://user-images.githubusercontent.com/116814386/201940769-76ca30ce-8d62-42db-a6c4-14de5ce1a331.png)
 
 ### Calculos para comprobar la ley de corrientes de kirchoff
 
