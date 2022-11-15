@@ -83,8 +83,19 @@ Calculos para comprobar la ley de corrientes de kirchoff
 
 ![image](https://user-images.githubusercontent.com/116814386/201928593-21a9d844-20c0-449c-858a-31f318546bad.png)
 
- 
- 
+1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
+![image](https://user-images.githubusercontent.com/116814386/201932921-e1e20d76-6b1b-44f6-bb8f-7acd94d051a2.png)
+
+Tabla 1.3. Verificación de la LCK. 
+ 
+![image](https://user-images.githubusercontent.com/116814386/201932660-72aac2ae-7d7c-49da-93d9-e9aaa5567501.png)
+
+![image](https://user-images.githubusercontent.com/116814386/201932790-2c439419-2974-498a-b69c-ff922b76a41a.png)
+
+1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
+analíticamente y concluya al respecto.
+
+Tras analizar los datos obtenidos mediante el laboratorio virtual y los datos obtenidos podemos ver que los resultados varian en pequeñas medidas ,Comparando lo medido y calculado podemos concluir que en efecto se cumplen ls leyes de voltaje y corriente de Kirchoff .
 
 
