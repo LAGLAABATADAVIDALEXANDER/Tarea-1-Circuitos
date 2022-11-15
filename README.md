@@ -73,5 +73,18 @@ Después de hallar la corriente uno y la corriente dos se va a encontrar los vol
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1.2.
 
+![image](https://user-images.githubusercontent.com/116814386/201927247-b7e4c10c-c271-42f6-ad38-00e219d79192.png)
+ 
+ Tabla 1.2 (Voltajes medidos y calculados en cada trayectoria del circuito)
+ 
+![image](https://user-images.githubusercontent.com/116814386/201928657-2c290c8f-893b-49cd-9cf9-acb080f11eeb.png)
+
+Calculos para comprobar la ley de corrientes de kirchoff
+
+![image](https://user-images.githubusercontent.com/116814386/201928593-21a9d844-20c0-449c-858a-31f318546bad.png)
+
+ 
+ 
+
 
 
