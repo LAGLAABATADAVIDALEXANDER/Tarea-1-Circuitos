@@ -105,7 +105,8 @@ Tras analizar los datos obtenidos mediante el laboratorio virtual y los datos ob
 
 https://youtu.be/7VkqUhpGqTM
 
-Conclusiones 
+### Conclusiones 
+
  Al finalizar el laboratorio de las leyes de Kirchoff se pudo comprabar que la sumatoria de la fuente de tension con las caidas de tension de una trayectoria cerrada en un circuito es igual a 0.
  
  Se pudo comprobar que a sumatoria de las intensidades de corrientes que entran y que salen a traves de un nodo son igual a 0 ,es decir que la intensidad de coriente que entra es igual a la intensidad de corriente que sale de un nodo.
